@@ -1,0 +1,5 @@
+functions-framework==3.*
+PyMuPDF
+google-cloud-storage
+Pillow
+python-dotenv
